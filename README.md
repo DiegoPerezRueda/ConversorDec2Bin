@@ -22,3 +22,6 @@ escribir|una tabla
 
 Ahora voy a poner una de mis citas favoritas, como dijo un filósofo antiguo\:
 >Si no se te ocurre ninguna cita, invéntatela. Y al autor también.
+
+Y aquí una foto de un :dog:\:
+![foto de un perrito de una web de imágenes gratuitas, para que no sea plagio](https://images.pexels.com/photos/2253275/pexels-photo-2253275.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
