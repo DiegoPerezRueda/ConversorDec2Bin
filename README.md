@@ -19,3 +19,6 @@ def dec2bin(numero_decimal, numero_bits):
 Aquí|voy a
 ----|------
 escribir|una tabla
+
+Ahora voy a poner una de mis citas favoritas, como dijo un filósofo antiguo\:
+>Si no se te ocurre ninguna cita, invéntatela. Y al autor también.
